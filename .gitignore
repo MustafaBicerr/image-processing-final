@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 data/
 .DS_Store
+docx_engine.py
+generate_article.py
+generate_article_helpers.py
